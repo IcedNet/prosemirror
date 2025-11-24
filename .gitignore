@@ -26,3 +26,5 @@
 /yarn.lock
 /bin/.pm-dev.pid
 /demo/demo.js
+.DS_Store
+package-lock.json

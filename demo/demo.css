@@ -6,7 +6,7 @@ body {
 textarea {
   width: 100%;
   border: 1px solid silver;
-  min-height: 40em;
+  min-height: 240em;
   padding: 4px 8px;
 }
 
